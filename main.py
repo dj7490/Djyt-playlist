@@ -1,7 +1,7 @@
 import telebot
 from pytube import Playlist
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # 🔹 Replace this
+BOT_TOKEN = "8470214067:AAFfkbyL5k4V64PXHtlMNndAxqOgFvMgIDk"  # 🔹 Replace this
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
